@@ -27,7 +27,6 @@ body {
 
 .mainHeader {
   width: 100%;
-  position: fixed;
   background-color: #111;
   z-index: 100;
 }
@@ -43,7 +42,7 @@ body {
 .mainHeader .mainHeaderContent .logo {
   -ms-flex-preferred-size: 200px;
       flex-basis: 200px;
-  padding: 20px;
+  padding: 40px;
   width: 200px;
 }
 
